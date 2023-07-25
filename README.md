@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ebenya215
-- 👀 I’m interested in knowing JavaScript and website design 
-- 🌱 I’m currently learning web developer 
-- 💞️ I’m looking to collaborate on web developer 
-- 📫 How to reach me with this link: wa.link/suqa31
+- 👀 I’m a full-stack web devoloper 
+- 🌱 I love and write about Web Development, HTML,CSS,javascript,Worldpress and React
+- 💞 Making your web Development easier.
+- let's connect
 
 <!---
 Ebenya215/Ebenya215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
